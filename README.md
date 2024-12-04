@@ -28,3 +28,4 @@ The keyboardFunc() function is an event handler that handles
 keyboard input. It checks the input key and updates the player's
 position based on the key pressed, while also checking for collisions
 with obstacles.
+![image](https://github.com/user-attachments/assets/e5ea289a-963c-4d20-b12c-345a29cb57de)
